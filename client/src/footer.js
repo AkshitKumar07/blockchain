@@ -26,7 +26,7 @@ const Footer = () => {
         <h3>Contact</h3>
         <ul>
             <li>info@blockchainresearch.net</li>
-            <li>India Accelerator, Noida UP, India-201301</li>
+            <li>Noida UP, India-201301</li>
             
         </ul>
     </div>
